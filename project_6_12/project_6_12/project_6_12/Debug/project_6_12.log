@@ -1,0 +1,39 @@
+﻿生成启动时间为 2023/1/27 23:40:29。
+     1>项目“D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\project_6_12\project_6_12.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\project_6_12.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program_Files\Microsoft_Visual_Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "Easy Hit The Plane.c"
+         Easy Hit The Plane.c
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(199): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(215): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(217): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(225): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(227): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(234): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(236): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\program_data\microsoft_visual_studio\project1\project_6_12\project_6_12\project_6_12\easy hit the plane.c(244): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program_files\microsoft_visual_studio\vc\include\conio.h(128) : 参见“getch”的声明
+         所有输出均为最新。
+       Link:
+         D:\Program_Files\Microsoft_Visual_Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\Debug\project_6_12.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\project_6_12.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\Debug\project_6_12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\Debug\project_6_12.lib" /MACHINE:X86 "Debug\Easy Hit The Plane.obj"
+         Debug\head.obj
+         LINK : 没有找到 D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\Debug\project_6_12.exe 或上一个增量链接没有生成它；正在执行完全链接
+         project_6_12.vcxproj -> D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\Debug\project_6_12.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\Debug\project_6_12.exe;#1" /manifest Debug\project_6_12.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\project_6_12.unsuccessfulbuild”。
+         正在对“Debug\project_6_12.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Program_data\Microsoft_Visual_Studio\project1\project_6_12\project_6_12\project_6_12\project_6_12.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.29
