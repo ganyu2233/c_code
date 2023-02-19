@@ -1,0 +1,3 @@
+﻿  praise2.c
+G:\ProgramFile\visual_studio_2019_program_file\source\repos\git_ganyu\Project4\test_0129\Project1\Project1\praise2.c(15,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+  Project1.vcxproj -> G:\ProgramFile\visual_studio_2019_program_file\source\repos\git_ganyu\Project4\test_0129\Project1\Debug\Project1.exe
