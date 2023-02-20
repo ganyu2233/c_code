@@ -8,6 +8,7 @@ int main(void)
 	printf("intger division: 7/4  is  %d \n", 7 / 4);
 	printf("intger division: 7./4.  is  %1.2f \n", 7. / 4.);
 	printf("intger division: 7./4  is  %1.2f \n", 7. / 4);
+
 	return 0;
 
 }
