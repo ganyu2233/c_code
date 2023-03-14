@@ -18,7 +18,9 @@ int main(void)
 		strlen(PRAISE));
 	printf("and occupies %zd memory cells.\n", sizeof PRAISE);
 	printf("Maximum int value on this system = %d\n", INT_MAX);
+
 	return 0;
+
 
 
 }
